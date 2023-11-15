@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![3D_Maze](path/to/your/banner-image.png)
+![3D_Maze](3D-Maze_banner.png)
 
 **Purpose:** The Maze Solver project aimed to develop an interactive maze-solving application using SDL2, offering a combination of entertainment and algorithmic challenges.
 
