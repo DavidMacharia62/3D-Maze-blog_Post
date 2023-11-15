@@ -27,7 +27,7 @@ Choosing the Maze Solver project wasn't just about enjoying mazes. I have a deep
 **Result:** The Maze Solver application is a fully functional maze exploration tool with realistic raycasting graphics.
 
 **Architecture:**
-![Maze Solver Architecture](path/to/your/architecture-diagram.png)
+![Maze Solver Architecture](3D-Maze.png)
 
 **Technologies Used:**
 - C Programming Language
